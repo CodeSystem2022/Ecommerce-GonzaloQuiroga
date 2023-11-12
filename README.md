@@ -51,15 +51,20 @@ Fue un proyecto en el cual se presentaron muchas dificultades y desafios de los 
 ![Home](/images/home.png)
 
 
-## Contacto
-
-GitHub: [GonzaloQuirogaS](https://github.com/GonzaloQuirogaS)
-
 ## Ejecucion del proyecto
+
+Antes de ejecutar la aplicacion se debe configurar la base de datos en applicattion.properies, en mi caso cree una base de nombre "ecommerce".
 
 Para ejecutar el proyecto se tiene que ejecutar la clase main llamada "SpringEcommerceApplication"
 
 De esta forma se inicia en forma local y se puede acceder en [Local Host](http://localhost:8080) para verlo en el navegador.
+
+Una vez ejecutado el ecommerce se debe crear manualmente una clase admin con tipo "ADMIN" para pdoer registar y gestionar productos.
+
+## Contacto
+
+GitHub: [GonzaloQuirogaS](https://github.com/GonzaloQuirogaS)
+
 
 
 ## Descarga de XAMPP
