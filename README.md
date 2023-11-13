@@ -61,11 +61,17 @@ De esta forma se inicia en forma local y se puede acceder en [Local Host](http:/
 
 Una vez ejecutado el ecommerce se debe crear manualmente una clase admin con tipo "ADMIN" para pdoer registar y gestionar productos.
 
+### Link a video de 7 minutos donde se ejecuta el proyecto
+
+Link de [Video de 7 minutos](https://drive.google.com/file/d/1TMaebT-UL-hb9xHaxCLicEIGGhCIZSIn/view?usp=sharing)
+
+### Link a video de 30 minutos donde se explica el proyecto en profundidad
+
+Link de [Video de 30 minutos](https://drive.google.com/file/d/19Z8bLmhQrE-5w8kTMZ1eMCwNk-n0XDQk/view?usp=sharing)
+
 ## Contacto
 
 GitHub: [GonzaloQuirogaS](https://github.com/GonzaloQuirogaS)
-
-
 
 ## Descarga de XAMPP
 Acceder a [XAMPP Download](https://www.apachefriends.org/es/download.html)
